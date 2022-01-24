@@ -1,0 +1,13 @@
+# Libraries used in Python
+
+pandas
+matplotlib
+seaborn
+jupyter
+scikit-learn
+scipy
+numpy
+statsmodels
+joblib
+wordcloud
+pyspark
